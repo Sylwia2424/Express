@@ -1,0 +1,22 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.dark__body {
+  background-color: black;
+}
+
+.dark__body {
+  background-color: black;
+  color: white;
+}
+
+.dark__nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.dark__nav a {
+  color: white;
+  padding: 1px;
+}
